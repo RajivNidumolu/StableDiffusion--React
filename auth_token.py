@@ -1,1 +1,1 @@
-auth_token= "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"
+auth_token= ""
